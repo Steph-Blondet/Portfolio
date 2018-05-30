@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Lato', sans-serif;
 }
 
 hr {
@@ -43,7 +43,7 @@ h6 {
 }
 
 .bg-dark {
-  background-color: #212529 !important;
+  background-color: #000 !important;
 }
 
 .text-faded {
@@ -55,7 +55,7 @@ section {
 }
 
 .section-heading {
-  margin-top: 0;
+  margin-top: 20px;
 }
 
 ::-moz-selection {
@@ -325,6 +325,29 @@ header.masthead p {
 a,
 .sb-name {
   letter-spacing: 0.15rem;
+}
+
+.sb-name {
+  font-family: 'Playfair Display', serif;
+}
+
+.text-default {
+  color: #333333;
+}
+
+.profile-container {
+  text-align: center;
+}
+
+.profile-pic {
+  width: 100%;
+}
+
+.fa.fa-2x.fa-envelope:hover,
+.fa.fa-2x.fa-github:hover,
+.fa.fa-2x.fa-instagram:hover,
+.fa.fa-2x.fa-linkedin:hover {
+  color: #1cbbb4;
 }
 
 footer {

@@ -23,6 +23,29 @@ a,
 .sb-name {
   letter-spacing: 0.15rem;
 }
+.sb-name {
+  font-family: 'Playfair Display', serif;
+}
+
+
+// ABOUT
+.text-default {
+  color: $gray-text;
+}
+
+.profile-container {
+  text-align: center;
+}
+
+.profile-pic {
+  width: 100%;
+}
+.fa.fa-2x.fa-envelope:hover,
+.fa.fa-2x.fa-github:hover,
+.fa.fa-2x.fa-instagram:hover,
+.fa.fa-2x.fa-linkedin:hover {
+  color: $primary;
+}
 
 
 // FOOTER
