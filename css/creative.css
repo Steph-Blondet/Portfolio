@@ -343,11 +343,17 @@ a,
   width: 100%;
 }
 
-.fa.fa-2x.fa-envelope:hover,
-.fa.fa-2x.fa-github:hover,
-.fa.fa-2x.fa-instagram:hover,
-.fa.fa-2x.fa-linkedin:hover {
+.social-icons {
+  color: #000;
+}
+
+.social-icons:hover,
+.social-icons-footer:hover {
   color: #1cbbb4;
+}
+
+.social-icons-footer {
+  color: #fff;
 }
 
 footer {

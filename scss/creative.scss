@@ -40,11 +40,15 @@ a,
 .profile-pic {
   width: 100%;
 }
-.fa.fa-2x.fa-envelope:hover,
-.fa.fa-2x.fa-github:hover,
-.fa.fa-2x.fa-instagram:hover,
-.fa.fa-2x.fa-linkedin:hover {
+.social-icons {
+  color: $black;
+}
+.social-icons:hover,
+.social-icons-footer:hover {
   color: $primary;
+}
+.social-icons-footer {
+  color: $white;
 }
 
 
