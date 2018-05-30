@@ -6,3 +6,17 @@
 @import "services.scss";
 @import "portfolio.scss";
 @import "bootstrap-overrides.scss";
+
+/***** CUSTOM STYLES *****/
+
+// HEADER
+.logo {
+  width: 70%;
+}
+
+
+// FOOTER
+footer {
+  background-color: black;
+  color: white;
+}
