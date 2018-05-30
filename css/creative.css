@@ -360,6 +360,11 @@ a,
   font-size: 80px;
 }
 
+.devicon-wordpress-plain {
+  font-size: 72px;
+  padding-bottom: 16px;
+}
+
 footer {
   background-color: black;
   color: white;
